@@ -1,0 +1,10 @@
+img {
+  width: 1000px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.move-x-plus {
+  /* left: 100px; */
+  transition-duration: 1s;
+}
